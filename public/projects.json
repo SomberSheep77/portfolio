@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Personas",
+    "month": "September",
+    "time": "2 weeks",
+    "link": "https://sombersheep77.github.io/uiux-project-1/",
+    "img": "cit.jpg",
+    "desc": "observations about the CIT elevator"
+  },
+  {
+    "title": "Responsive Redesign",
+    "month": "October",
+    "time": "2 weeks",
+    "link": "https://sombersheep77.github.io/uiux-project-2/",
+    "img": "redesign.png",
+    "desc": "responsive redesign of 99 ranch market's site"
+  },
+  {
+    "title": "Development",
+    "month": "November",
+    "time": "3 weeks",
+    "link": "https://sombersheep77.github.io/ivrogne/",
+    "img": "ivrogne.png",
+    "desc": "website to find cocktail recipes and the necessary ingredients to make your favorite drinks."
+  }
+]
