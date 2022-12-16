@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.c3ee3fdd.js",
+    "static/media/ivrogne.png": "/portfolio/static/media/ivrogne.2dde5b93a20fd9d41fa0.png",
+    "static/media/redesign.png": "/portfolio/static/media/redesign.b224828f14eb64af4179.png",
+    "static/media/issues.png": "/portfolio/static/media/issues.88c90d8207969e49b665.png",
+    "static/media/ivrogne_thumbnail.png": "/portfolio/static/media/ivrogne_thumbnail.f92d418bb55fb8035cc3.png",
+    "static/media/amazon.png": "/portfolio/static/media/amazon.a13c6e92cb75e4ddb7c0.png",
+    "static/media/hifi_desktop.png": "/portfolio/static/media/hifi_desktop.dea1786fae033ff1a404.png",
+    "static/media/target.png": "/portfolio/static/media/target.6c61ca0963653cfe8a7d.png",
+    "static/media/hifi_tablet.png": "/portfolio/static/media/hifi_tablet.79b7d3d66a47cd7b5605.png",
+    "static/media/hifi_phone.png": "/portfolio/static/media/hifi_phone.083942cc7998a62df2cd.png",
+    "static/media/lofi_phone.png": "/portfolio/static/media/lofi_phone.15e37bca24192558f7fb.png",
+    "static/media/lofi_tablet.png": "/portfolio/static/media/lofi_tablet.94c0cdc4d97e4dfeec89.png",
+    "static/media/lofi_desktop.png": "/portfolio/static/media/lofi_desktop.baaffaa741365c1dee90.png",
+    "static/media/persona_2.png": "/portfolio/static/media/persona_2.44f729cbc5f0cf669582.png",
+    "static/media/persona_1.png": "/portfolio/static/media/persona_1.fe1de116bf474d6dbd10.png",
+    "static/media/personas.png": "/portfolio/static/media/personas.c18e49bebcb5caf0ac8e.png",
+    "static/media/lucidity2.png": "/portfolio/static/media/lucidity2.93541201601e41c90226.png",
+    "static/media/components.png": "/portfolio/static/media/components.102156d7f5bd370dd9da.png",
+    "static/media/lucidity.png": "/portfolio/static/media/lucidity.7f426a4346b716a5791f.png",
+    "static/media/lucidity_thumbnail.png": "/portfolio/static/media/lucidity_thumbnail.b573bec21a5a33c965b9.png",
+    "static/media/panel_6.png": "/portfolio/static/media/panel_6.55e32b56c506b7849e63.png",
+    "static/media/panel_5.png": "/portfolio/static/media/panel_5.aba409522729ead0e9bf.png",
+    "static/media/panel_1.png": "/portfolio/static/media/panel_1.a62582bb87679ed0199c.png",
+    "static/media/panel_7.png": "/portfolio/static/media/panel_7.7deef7c1102de1452493.png",
+    "static/media/panel_3.png": "/portfolio/static/media/panel_3.9b80e97456769f178d0d.png",
+    "static/media/panel_2.png": "/portfolio/static/media/panel_2.b2eae78893fac3b4f708.png",
+    "static/media/panel_4.png": "/portfolio/static/media/panel_4.fd895700c6a41547204a.png",
+    "index.html": "/portfolio/index.html",
+    "main.c3ee3fdd.js.map": "/portfolio/static/js/main.c3ee3fdd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3ee3fdd.js"
+  ]
+}

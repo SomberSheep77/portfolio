@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Lucidity",
+    "month": "May",
+    "year": "2022",
+    "time": "1 month",
+    "link": "https://sombersheep77.github.io/ivrogne/",
+    "img": "ivrogne.png",
+    "desc": "spotify wrapped but for texts"
+  },
+  {
+    "title": "Personas",
+    "month": "September",
+    "year": "2022",
+    "time": "2 weeks",
+    "link": "https://sombersheep77.github.io/uiux-project-1/",
+    "img": "personas.png",
+    "desc": "observations about the CIT elevator",
+    "content": [
+      {
+        "header": "",
+        "body": "While the average user will have no trouble getting to their destination, there exist some extreme edge cases when using this elevator. The CIT elevator has a pretty simple interface, no different than your average elevator. However, the one major quirk is the addition of swiping. During the day, up until around 6pm, all floors are accessible without swiping. After 6 or so, floors 3-5 require a swipe which only professors, grad students, and ta's have. Despite coming daily to this god forsaken building, I have no idea at exactly what time the access shuts off, but for the sake of this project, we can just say 6pm. \n\nPrimary issue: only certain people have access, but the accessibility rules are unclear"
+      },
+      {
+        "header": "",
+        "body": "",
+        "imgs": []
+      },
+      {
+        "header": "",
+        "body": "",
+        "imgs": []
+      },
+      {
+        "header": "",
+        "body": "",
+        "imgs": []
+      }
+    ]
+  },
+  {
+    "title": "Responsive Redesign",
+    "month": "October",
+    "year": "2022",
+    "time": "2 weeks",
+    "link": "https://sombersheep77.github.io/uiux-project-2/",
+    "img": "redesign.png",
+    "desc": "responsive redesign of 99 ranch market's site"
+  },
+  {
+    "title": "Development",
+    "month": "November",
+    "year": "2022",
+    "time": "3 weeks",
+    "link": "https://sombersheep77.github.io/ivrogne/",
+    "img": "ivrogne.png",
+    "desc": "website to find cocktail recipes and the necessary ingredients to make your favorite drinks."
+  }
+]
